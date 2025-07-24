@@ -154,23 +154,16 @@ customtkinter>=5.0.0
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md).
 
-### Development Setup
-```bash
-git clone https://github.com/yourusername/prowipe.git
-cd prowipe
-pip install -r requirements-dev.txt
-```
-
 ### Reporting Issues
-- 🐛 [Bug Reports](https://github.com/yourusername/prowipe/issues/new?template=bug_report.md)
-- 💡 [Feature Requests](https://github.com/yourusername/prowipe/issues/new?template=feature_request.md)
+- 🐛 [Bug Reports](https://github.com/LMLK-seal/prowipe/issues/new?template=bug_report.md)
+- 💡 [Feature Requests](https://github.com/LMLK-seal/prowipe/issues/new?template=feature_request.md)
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/prowipe?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/prowipe?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/prowipe)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/prowipe)
+![GitHub stars](https://img.shields.io/github/stars/LMLK-seal/prowipe?style=social)
+![GitHub forks](https://img.shields.io/github/forks/LMLK-seal/prowipe?style=social)
+![GitHub issues](https://img.shields.io/github/issues/LMLK-seal/prowipe)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/LMLK-seal/prowipe)
 
 ## 📄 License
 

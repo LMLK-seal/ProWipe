@@ -1,4 +1,4 @@
-<img width="737" height="272" alt="image" src="https://github.com/user-attachments/assets/83463fa5-b654-438b-884e-3cd1fbcc0f98" /><img width="737" height="272" alt="image" src="https://github.com/user-attachments/assets/b2af47c6-42eb-4467-bd69-d8ca8d4dc5c8" /># 🔒 ProWipe - Advanced Secure File Deletion Tool
+ProWipe - Advanced Secure File Deletion Tool
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)

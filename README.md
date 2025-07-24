@@ -119,13 +119,7 @@ graph TD
 ## 📸 Screenshots
 
 ### Main Interface
-![ProWipe Main Interface](screenshots/main-interface.png)
-
-### File Selection
-![File Selection](screenshots/file-selection.png)
-
-### Deletion Progress
-![Deletion Progress](screenshots/deletion-progress.png)
+![ProWipe Main Interface](https://github.com/LMLK-seal/ProWipe/blob/main/ProWipe_screenshot.jpg?raw=true)
 
 ## 🛠️ Requirements
 

@@ -1,9 +1,11 @@
-# 🔒 ProWipe - Advanced Secure File Deletion Tool
+<img width="737" height="272" alt="image" src="https://github.com/user-attachments/assets/83463fa5-b654-438b-884e-3cd1fbcc0f98" /><img width="737" height="272" alt="image" src="https://github.com/user-attachments/assets/b2af47c6-42eb-4467-bd69-d8ca8d4dc5c8" /># 🔒 ProWipe - Advanced Secure File Deletion Tool
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
 [![GUI](https://img.shields.io/badge/GUI-CustomTkinter-orange.svg)](https://github.com/TomSchimansky/CustomTkinter)
+
+![ProWipe](https://github.com/LMLK-seal/ProWipe/blob/main/ProWipe.jpg?raw=true)
 
 > **ProWipe** is a professional-grade secure file deletion tool that permanently removes files beyond recovery using military-standard overwrite algorithms. Unlike standard deletion methods, ProWipe ensures your sensitive data cannot be recovered even with advanced forensic tools.
 

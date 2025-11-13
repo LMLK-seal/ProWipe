@@ -80,10 +80,10 @@ ProWipe currently operates through GUI only. CLI version coming soon.
 
 | Passes | Method | Security Level | Use Case |
 |--------|--------|----------------|----------|
-| **1** | Single random overwrite | ⭐ Basic | Quick deletion, non-sensitive files |
+| **1** | Single random overwrite | ⭐ Basic | Quick deletion, non-sensitive files, best of SSD/flash drive |
 | **3** | DoD 5220.22-M Standard | ⭐⭐⭐ Recommended | Standard secure deletion |
 | **7** | Enhanced multi-pass | ⭐⭐⭐⭐ High | Sensitive business data |
-| **35** | Gutmann Method | ⭐⭐⭐⭐⭐ Maximum | Classified/highly sensitive data |
+| **35** | Gutmann Method | ⭐⭐⭐⭐⭐ Maximum | Classified/highly sensitive data - HDD only |
 
 ## 🔬 How It Works
 
